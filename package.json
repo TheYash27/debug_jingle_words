@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "dependencies": {
+    "js-confetti": "^0.12.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
